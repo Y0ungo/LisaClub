@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Claude Code 로컬 전용 설정 (공유/커밋하지 않음)
+.claude/settings.local.json
+
+# Node를 추가로 쓰게 되면
+node_modules/
